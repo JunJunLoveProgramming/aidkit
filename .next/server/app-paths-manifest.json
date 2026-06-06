@@ -1,0 +1,8 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/tools/summarize/page": "app/tools/summarize/page.js",
+  "/tools/translate/page": "app/tools/translate/page.js",
+  "/tools/code-comment/page": "app/tools/code-comment/page.js",
+  "/about/page": "app/about/page.js"
+}
